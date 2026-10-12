@@ -163,4 +163,3 @@ Streamlit will launch and display the local URL (typically `http://localhost:850
 
 1. C. Li, C. Guo, and C. C. Loy, *"Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement"*, CVPR 2020.
 2. R. C. Gonzalez and R. E. Woods, *Digital Image Processing*, 4th Edition, Pearson.
-3. Official Zero-DCE Repository: `https://github.com/Li-Chongyi/Zero-DCE`
